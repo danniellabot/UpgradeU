@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "name": "Repo1",
+      "url": "https://dev.azure.com/yourorg/_git/Repo1"
+    },
+    {
+      "id": "2",
+      "name": "Repo2",
+      "url": "https://dev.azure.com/yourorg/_git/Repo2"
+    },
+    {
+      "id": "3",
+      "name": "Repo3",
+      "url": "https://dev.azure.com/yourorg/_git/Repo3"
+    },
+    {
+      "id": "4",
+      "name": "Repo4",
+      "url": "https://dev.azure.com/yourorg/_git/Repo4"
+    },
+    {
+      "id": "5",
+      "name": "Repo5",
+      "url": "https://dev.azure.com/yourorg/_git/Repo5"
+    },
+    {
+      "id": "6",
+      "name": "Repo6",
+      "url": "https://dev.azure.com/yourorg/_git/Repo6"
+    }
+  ]
+  
